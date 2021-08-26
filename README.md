@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)
-
 <!--
 **kanlee2010/kanlee2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
